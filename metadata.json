@@ -1,0 +1,6 @@
+{
+  "name": "Indústria K&K Alimentos – Moinho de Trigo K&K",
+  "description": "Site institucional da Indústria K&K Alimentos – Moinho de Trigo K&K em São João - PE. Farinhas de trigo de alta performance para panificação, confeitaria e indústrias de biscoitos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
